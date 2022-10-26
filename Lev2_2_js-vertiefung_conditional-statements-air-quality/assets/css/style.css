@@ -1,0 +1,16 @@
+.slider {
+  appearance: none;
+  width: 50%;
+  height: 25px;
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+}
+
+.slider:hover {
+  opacity: 1;
+}
+
+p {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
